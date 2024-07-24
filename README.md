@@ -22,5 +22,4 @@ Or just do in the manual way:
 - You can add your repo here
 
 
-© 2020 Crafted by Irfan Maulana
 
